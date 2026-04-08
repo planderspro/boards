@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+U1,TPS54338,TPS54338RQFR_VQFN_TXI_TEX,146.9553mm,75.3261mm,-90.0,top
+R1,45k,R_0402_1005Metric,154.0000mm,71.2100mm,90.0,top
+JP2,SolderJumper_2_Open,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,158.0000mm,68.3500mm,90.0,top
+R3,190k,R_0402_1005Metric,161.4978mm,71.1571mm,90.0,top
+JP1,SolderJumper_2_Open,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,154.0000mm,68.3500mm,90.0,top
+CSS1,33nF,C_0603_1608Metric,147.8847mm,72.4039mm,-90.0,top
+REF**,MountingHole_2.7mm_M2.5,MountingHole_2.7mm_M2.5,141.0000mm,68.0000mm,0.0,top
+R2,73.3k,R_0402_1005Metric,158.0000mm,71.2100mm,90.0,top
+CIN1,10uF,C_1210_3225Metric,142.4927mm,75.5653mm,90.0,top
+L1,5.6uH,L_Bourns_SRN6045TA,152.3743mm,76.5218mm,0.0,top
+JP3,SolderJumper_2_Open,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,162.0000mm,68.3500mm,90.0,top
+J1,VIN,PinHeader_1x02_P2.54mm_Vertical,139.0000mm,76.5900mm,180.0,top
+J2,VOUT,PinHeader_1x02_P2.54mm_Vertical,163.0387mm,75.0000mm,0.0,top
+CIN2,100nF,C_0603_1608Metric,144.9694mm,75.3854mm,90.0,top
+COUT1,22uF,C_1206_3216Metric,157.5554mm,76.4750mm,-90.0,top
+CFF1,10pF,C_0402_1005Metric,162.4978mm,71.1471mm,90.0,top
+COUT2,22uF,C_1206_3216Metric,160.0000mm,76.4750mm,-90.0,top
+RFBB1,10k,R_0402_1005Metric,164.0000mm,68.4900mm,-90.0,top

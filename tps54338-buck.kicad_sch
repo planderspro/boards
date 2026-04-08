@@ -1933,7 +1933,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 179.07 104.14 0)
 			(effects
 				(font
@@ -2201,7 +2201,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 179.07 95.25 0)
 			(effects
 				(font
@@ -2528,7 +2528,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "190k"
+		(property "Value" "200k"
 			(at 168.91 104.14 90)
 			(effects
 				(font
@@ -2817,7 +2817,7 @@
 				)
 			)
 		)
-		(property "Value" "5.6uH"
+		(property "Value" "6.8uH"
 			(at 216.154 66.548 90)
 			(effects
 				(font
@@ -3767,7 +3767,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 179.07 86.36 0)
 			(effects
 				(font
