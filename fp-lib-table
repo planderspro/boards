@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS54338")(type "KiCad")(uri "C:/Users/PhillipLanders/.kicad/libs/TPS54338.pretty")(options "")(descr "TPS54338RQFR footprints from UltraLibrarian"))
+)

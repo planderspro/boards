@@ -1,0 +1,14 @@
+# KiCad backup files
+*~
+*.bak
+*-backups/
+fp-info-cache
+*.kicad_pcb-bak
+
+# KiCad lock files
+*.kicad_pro.lck
+*.kicad_sch.lck
+*.kicad_pcb.lck
+
+# Seeed DFM PDF (reference only)
+*.pdf

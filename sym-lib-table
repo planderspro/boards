@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS54338")(type "KiCad")(uri "C:/Users/PhillipLanders/.kicad/libs/TPS54338.kicad_sym")(options "")(descr "TPS54338RQFR buck converter symbol from UltraLibrarian"))
+)
